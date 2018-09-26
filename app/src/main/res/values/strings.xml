@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PS Solutions</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="welcome">We would be happy to talk to you if you need our help and assistance to solve your problem.</string>
+    <string name="hi"> Contact Us : Ramallah / Palestine \n Send Email</string>
+    <string name="help">We are here to help you \n
+        Call Us +970599876048</string>
+
+</resources>
